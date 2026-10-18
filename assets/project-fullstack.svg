@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190">
+<defs><linearGradient id="g"><stop stop-color="#f59e0b"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect x="4" y="4" width="632" height="182" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="3"><animate attributeName="stroke-width" values="2;5;2" dur="3s" repeatCount="indefinite"/></rect>
+<text x="28" y="54" fill="#f59e0b" font-family="Arial,sans-serif" font-size="22" font-weight="700">GITRESET.DEV PLATFORM</text>
+<rect x="28" y="76" width="150" height="30" rx="15" fill="#f59e0b" fill-opacity=".18" stroke="#f59e0b"/>
+<text x="103" y="96" text-anchor="middle" fill="#f59e0b" font-family="Arial,sans-serif" font-size="13" font-weight="700">LIVE</text>
+<path d="M28 130 H610" stroke="#f59e0b" stroke-opacity=".5" stroke-width="2"><animate attributeName="stroke-dasharray" values="1 12;12 1;1 12" dur="4s" repeatCount="indefinite"/></path>
+<text x="28" y="158" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">RAJAN624 · PROJECT SHOWCASE</text></svg>
