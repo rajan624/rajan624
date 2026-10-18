@@ -1,0 +1,24 @@
+<svg width="400" height="160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .pulse-border {
+      animation: pulseGlow 1.5s infinite alternate;
+    }
+    @keyframes pulseGlow {
+      0% { stroke-width: 2; stroke: #00E676; }
+      100% { stroke-width: 5; stroke: #00FFFF; }
+    }
+  </style>
+  
+  <!-- Pulsing Border Box -->
+  <rect width="394" height="154" x="3" y="3" rx="10" fill="#111827" class="pulse-border" />
+  
+  <text x="20" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#00E676" font-weight="bold">Automated Content Pipeline</text>
+  
+  <rect x="20" y="60" width="85" height="22" rx="5" fill="#000000" stroke="#00E676" stroke-width="1" />
+  <text x="62" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#00E676" text-anchor="middle">Status: Dev</text>
+  
+  <text x="20" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#E2E8F0">AI Agents, Gemini API, Python</text>
+  
+  <text x="20" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#FFD700">⭐ 12 Stars</text>
+  <text x="110" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#3B82F6">🍴 3 Forks</text>
+</svg>

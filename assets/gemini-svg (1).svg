@@ -1,0 +1,32 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .animated-border {
+      stroke-dasharray: 15, 10;
+      animation: march 2s linear infinite;
+    }
+    @keyframes march {
+      to { stroke-dashoffset: -50; }
+    }
+    .glow {
+      animation: colorChange 4s infinite alternate;
+    }
+    @keyframes colorChange {
+      0% { stroke: #FF007F; filter: drop-shadow(0 0 5px #FF007F); }
+      33% { stroke: #00E676; filter: drop-shadow(0 0 5px #00E676); }
+      66% { stroke: #3B82F6; filter: drop-shadow(0 0 5px #3B82F6); }
+      100% { stroke: #F59E0B; filter: drop-shadow(0 0 5px #F59E0B); }
+    }
+  </style>
+  
+  <!-- Animated Border Box -->
+  <rect width="294" height="144" x="3" y="3" rx="12" fill="#0A0A0A" stroke-width="4" class="animated-border glow" />
+  
+  <text x="50%" y="35%" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#00E676" text-anchor="middle" font-weight="bold">🤖 AI & LLMs</text>
+  <text x="50%" y="55%" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#E2E8F0" text-anchor="middle">Generative AI, Agents & Prompts</text>
+  
+  <!-- Blinking Button -->
+  <rect x="75" y="90" width="150" height="35" rx="17.5" fill="#00E676">
+    <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+  <text x="50%" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#000000" text-anchor="middle" font-weight="bold">👉 CLICK TO JUMP</text>
+</svg>
