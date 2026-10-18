@@ -28,7 +28,7 @@
   <tr>
     <td align="center" width="30%">
       <a href="#1-ai--llm-development">
-        <img src="assets/card-ai.svg" width="100%" alt="AI and LLMs card" />
+        <img src="assets/card_ai.svg" width="100%" alt="AI and LLMs card" />
         <h2>🤖 AI &amp; LLMs</h2>
         <p><i>Generative AI, Agents &amp; Prompts</i></p>
         <b>👉 CLICK TO JUMP</b>
