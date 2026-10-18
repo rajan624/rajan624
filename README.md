@@ -1,39 +1,221 @@
-<h1 align="center">Hi 👋, I'm Rajan</h1>
-<p align="left">Excited about improving the way humans interact with web applications. An aspiring full-stack developer specializing in MERN stack, on the hunt for opportunities to challenge himself.</p>
+<div align="center" id="top">
 
-- 🔭 I’m currently working on [CMS Web App](https://cms-web-app-07.web.app/)
+<h1>Hi there, I'm Rajan Kumar 👋</h1>
+<img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
 
-- 🌱 I’m currently learning **Django(Python library)**
+<h3>Senior AI Engineer | Backend Architect | Full-Stack Developer</h3>
 
-- 💬 Ask me about **React,node.js,html,css,JavaScript,**
+<p><i>Building scalable architectures | Integrating Generative AI (Gemini/Ollama) | Creator of gitreset.dev</i></p>
 
-- 📫 How to reach me **rkp33510@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing](https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing)
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-kumar-4158211a0) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajan624&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajan624&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan624&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajan624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajan624&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+<p>
+  <a href="mailto:rkp33510@gmail.com">✉️ Email</a> ·
+  <a href="https://linkedin.com/in/rajan-kumar-4158211a0">🔗 LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing">📄 Resume</a> ·
+  <a href="https://gitreset.dev">🌐 Website</a>
+</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajan624&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 2. QUICK JUMP DASHBOARD (same four-card structure) -->
+<div align="center">
+  <h2>⚡ QUICK JUMP DASHBOARD ⚡</h2>
+  <img src="assets/animated-divider.svg" width="55%" alt="Animated rainbow divider" />
+  <p><i>Select your area of interest to instantly navigate to that vertical.</i></p>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="30%">
+      <a href="#1-ai--llm-development">
+        <img src="assets/card-ai.svg" width="100%" alt="AI and LLMs card" />
+        <h2>🤖 AI &amp; LLMs</h2>
+        <p><i>Generative AI, Agents &amp; Prompts</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td width="5%"></td>
+    <td align="center" width="30%">
+      <a href="#2-backend--api-architecture">
+        <img src="assets/card-backend.svg" width="100%" alt="Backend card" />
+        <h2>⚙️ Backend</h2>
+        <p><i>Python, Django &amp; ERP APIs</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td width="5%"></td>
+    <td align="center" width="30%">
+      <a href="#3-frontend-specialist">
+        <img src="assets/card-frontend.svg" width="100%" alt="Frontend card" />
+        <h2>💻 Front-End</h2>
+        <p><i>React, UI/UX &amp; Redux</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td align="center" width="30%">
+      <a href="#4-full-stack--devops">
+        <img src="assets/card-fullstack.svg" width="100%" alt="Full-stack card" />
+        <h2>🌐 Full-Stack</h2>
+        <p><i>MERN, Cloud &amp; Deployments</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td></td><td></td>
+  </tr>
+</table>
+
+---
+
+<!-- 3. FOUR PROJECT CATEGORIES -->
+
+<a id="1-ai--llm-development"></a>
+<div align="center">
+  <h1>🤖 1. AI DEVELOPER &amp; LLMs</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Retrieval Augmented Generation (RAG), Local LLMs &amp; Prompt Engineering</h3>
+</div>
+<br>
+<p align="center"><b>🐍 Python</b> · <b>✨ Gemini</b> · <b>🦙 Ollama</b></p>
+
+<details open>
+  <summary><b>🔥 Hide / Collapse AI Projects</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔹 Automated Content Pipeline</h3>
+        <p><b>🟢 Status:</b> In Progress</p>
+        <p><b>📝 Description:</b> Multi-platform content generation system that automatically creates, formats, and schedules videos using AI.</p>
+        <p><b>✨ Highlights:</b> Python, Gemini API, AI Agents.</p>
+      </td>
+      <td width="50%" valign="center">
+        <!-- Replace YOUR_AI_REPO with the actual repository name -->
+        <a href="https://github.com/rajan624/YOUR_AI_REPO"><img src="assets/project-ai.svg" width="100%" alt="AI project card" /></a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔹 Local AI Coding Agent</h3>
+        <p><b>🟣 Status:</b> Experimental</p>
+        <p><b>📝 Description:</b> Secure offline AI developer environment configured with custom system prompts to review and write codebase.</p>
+        <p><b>✨ Highlights:</b> Ollama setup, VS Code integration, 100% data privacy.</p>
+      </td>
+      <td width="50%" valign="center">
+        <a href="https://github.com/rajan624/YOUR_AI_REPO_2"><img src="assets/project-ai-local.svg" width="100%" alt="Local AI coding agent card" /></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="2-backend--api-architecture"></a>
+<div align="center">
+  <h1>⚙️ 2. BACKEND ARCHITECTURE</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: High Performance APIs, Business Logic &amp; ERP Integrations (SAP/Zoho)</h3>
+</div>
+<br>
+<p align="center"><b>🐍 Django</b> · <b>🛢️ MySQL</b> · <b>🍃 MongoDB</b></p>
+
+<details open>
+  <summary><b>🔥 Hide / Collapse Backend Projects</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔹 Enterprise ERP Core Sync</h3>
+        <p><b>🔵 Status:</b> Completed</p>
+        <p><b>📝 Description:</b> A robust data-syncing API layer handling seamless, secure data flow between manufacturing systems.</p>
+        <p><b>✨ Highlights:</b> SAP/QuickBooks integration, Celery background tasks.</p>
+      </td>
+      <td width="50%" valign="center">
+        <a href="https://github.com/rajan624/YOUR_BACKEND_REPO"><img src="assets/project-backend.svg" width="100%" alt="Backend project card" /></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="3-frontend-specialist"></a>
+<div align="center">
+  <h1>💻 3. FRONT-END SPECIALIST</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Accessible Interfaces, React Component Architecture &amp; Redux</h3>
+</div>
+<br>
+<p align="center"><b>⚛️ React</b> · <b>🔄 Redux</b> · <b>🟨 JavaScript</b></p>
+
+<details open>
+  <summary><b>🔥 Hide / Collapse Front-End Projects</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔹 CMS Web Dashboard</h3>
+        <p><b>💗 Status:</b> Live</p>
+        <p><b>📝 Description:</b> Frontend interface for managing digital content, providing users with a fast and intuitive state-optimized experience.</p>
+        <p><b>✨ Highlights:</b> Component architecture. <a href="https://cms-web-app-07.web.app/">Live Link</a>.</p>
+      </td>
+      <td width="50%" valign="center">
+        <a href="https://github.com/rajan624/YOUR_FRONTEND_REPO"><img src="assets/project-frontend.svg" width="100%" alt="Frontend project card" /></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="4-full-stack--devops"></a>
+<div align="center">
+  <h1>🌐 4. FULL-STACK &amp; DEVOPS</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Full Lifecycle, Cloud Deployments (Vercel/AWS) &amp; CI/CD Pipelines</h3>
+</div>
+<br>
+<p align="center"><b>🟢 Node.js</b> · <b>🐳 Docker</b> · <b>▲ Vercel</b></p>
+
+<details open>
+  <summary><b>🔥 Hide / Collapse Full-Stack Projects</b></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🔹 gitreset.dev Platform</h3>
+        <p><b>🟠 Status:</b> Live</p>
+        <p><b>📝 Description:</b> A central hub for developer resources, tutorials, and automated tools, fully designed and deployed by me.</p>
+        <p><b>✨ Highlights:</b> MERN stack, Cloud Auth, CI/CD pipelines.</p>
+      </td>
+      <td width="50%" valign="center">
+        <a href="https://github.com/rajan624/YOUR_FULLSTACK_REPO"><img src="assets/project-fullstack.svg" width="100%" alt="Full-stack project card" /></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+## 📊 GITHUB PROFILE SNAPSHOT
+
+<div align="center">
+  <img src="assets/profile-stats.svg" width="100%" alt="Static GitHub profile snapshot" />
+</div>
+
+<br>
+<div align="center">
+  <h3>👀 Thanks for visiting!</h3>
+  <p><b>Build. Learn. Improve. Repeat.</b></p>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+</div>
