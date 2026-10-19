@@ -1,69 +1,108 @@
 <div align="center" id="top">
 
-<h1><font color="#FF007F">Hi there, I'm Rajan Kumar 👋</font></h1>
+<h1>Hi there, I'm Rajan Kumar 👋</h1>
 <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
 
-<h3><font color="#00E676">Senior AI Engineer</font> | <font color="#3B82F6">Backend Architect</font> | <font color="#F59E0B">Full-Stack Developer</font></h3>
+<h3>Senior AI Engineer | Backend Architect | Full-Stack Developer</h3>
+<p><b>⚡ Engineering scalable systems • Building useful AI • Shipping reliable products</b></p>
 
-<p><i><b><font color="#A855F7">Building scalable architectures</font></b> | <b><font color="#EF4444">Integrating Generative AI (Gemini/Ollama)</font></b> | <b><font color="#14B8A6">Creator of gitreset.dev</font></b></i></p>
+<p><i>Building scalable architectures | Integrating Generative AI (Gemini/Ollama) | Creator of gitreset.dev</i></p>
 
 <p>
-  <a href="mailto:rkp33510@gmail.com"><font color="#FF4500">✉️ Email</font></a> ·
-  <a href="https://linkedin.com/in/rajan-kumar-4158211a0"><font color="#0077B5">🔗 LinkedIn</font></a> ·
-  <a href="https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing"><font color="#4285F4">📄 Resume</font></a> ·
-  <a href="https://gitreset.dev"><font color="#00E676">🌐 Website</font></a>
+  <a href="mailto:rkp33510@gmail.com">✉️ Email</a> ·
+  <a href="https://linkedin.com/in/rajan-kumar-4158211a0">🔗 LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing">📄 Resume</a> ·
+  <a href="https://gitreset.dev">🌐 Website</a>
 </p>
 </div>
 
 ---
 
-<!-- 2. QUICK JUMP DASHBOARD (same four-card structure) -->
+<!-- 2. QUICK JUMP DASHBOARD (nine topic cards in a 3 x 3 layout) -->
 <div align="center">
-  <h2><font color="#FFD700">⚡ QUICK JUMP DASHBOARD ⚡</font></h2>
+  <h2>⚡ QUICK JUMP DASHBOARD ⚡</h2>
   <img src="assets/animated-divider.svg" width="55%" alt="Animated rainbow divider" />
-  <p><i><font color="#00FFFF">Select your area of interest to instantly navigate to that vertical.</font></i></p>
+  <p><i>Select your area of interest to instantly navigate to that vertical.</i></p>
 </div>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <a href="#1-ai--llm-development">
-        <img src="assets/card_ai.svg" width="100%" alt="AI and LLMs card" />
-        <h2><font color="#00E676">🤖 AI &amp; LLMs</font></h2>
-        <p><i><font color="#E2E8F0">Generative AI, Agents &amp; Prompts</font></i></p>
-        <b><font color="#00E676">👉 CLICK TO JUMP</font></b>
+        <img src="assets/card-ai.svg" width="100%" alt="🤖 AI &amp;amp; LLMs card" />
+        <h3>🤖 AI &amp; LLMs</h3>
+        <p><i>Generative AI, RAG &amp; Agents</i></p>
+        <b>👉 CLICK TO JUMP</b>
       </a>
     </td>
-    <td width="5%"></td>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <a href="#2-backend--api-architecture">
-        <img src="assets/card-backend.svg" width="100%" alt="Backend card" />
-        <h2><font color="#3B82F6">⚙️ Backend</font></h2>
-        <p><i><font color="#E2E8F0">Python, Django &amp; ERP APIs</font></i></p>
-        <b><font color="#3B82F6">👉 CLICK TO JUMP</font></b>
+        <img src="assets/card-backend.svg" width="100%" alt="⚙️ Backend card" />
+        <h3>⚙️ Backend</h3>
+        <p><i>Python, Django &amp; APIs</i></p>
+        <b>👉 CLICK TO JUMP</b>
       </a>
     </td>
-    <td width="5%"></td>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <a href="#3-frontend-specialist">
-        <img src="assets/card-frontend.svg" width="100%" alt="Frontend card" />
-        <h2><font color="#EC4899">💻 Front-End</font></h2>
-        <p><i><font color="#E2E8F0">React, UI/UX &amp; Redux</font></i></p>
-        <b><font color="#EC4899">👉 CLICK TO JUMP</font></b>
+        <img src="assets/card-frontend.svg" width="100%" alt="💻 Frontend card" />
+        <h3>💻 Frontend</h3>
+        <p><i>React, UI/UX &amp; Redux</i></p>
+        <b>👉 CLICK TO JUMP</b>
       </a>
     </td>
   </tr>
   <tr>
-    <td></td><td></td>
-    <td align="center" width="30%">
-      <a href="#4-full-stack--devops">
-        <img src="assets/card-fullstack.svg" width="100%" alt="Full-stack card" />
-        <h2><font color="#F59E0B">🌐 Full-Stack</font></h2>
-        <p><i><font color="#E2E8F0">MERN, Cloud &amp; Deployments</font></i></p>
-        <b><font color="#F59E0B">👉 CLICK TO JUMP</font></b>
+    <td align="center" width="33%">
+      <a href="#4-full-stack-development">
+        <img src="assets/card-fullstack.svg" width="100%" alt="🌐 Full-Stack card" />
+        <h3>🌐 Full-Stack</h3>
+        <p><i>MERN, Apps &amp; Integration</i></p>
+        <b>👉 CLICK TO JUMP</b>
       </a>
     </td>
-    <td></td><td></td>
+    <td align="center" width="33%">
+      <a href="#5-devops-engineering">
+        <img src="assets/card-devops.svg" width="100%" alt="🚀 DevOps card" />
+        <h3>🚀 DevOps</h3>
+        <p><i>Docker, CI/CD &amp; Cloud</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="#6-system-design">
+        <img src="assets/card-system-design.svg" width="100%" alt="🏗️ System Design card" />
+        <h3>🏗️ System Design</h3>
+        <p><i>Scalability &amp; Architecture</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#7-databases">
+        <img src="assets/card-database.svg" width="100%" alt="🗄️ Databases card" />
+        <h3>🗄️ Databases</h3>
+        <p><i>SQL, NoSQL &amp; Data Modeling</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="#8-cybersecurity-ethical-hacking">
+        <img src="assets/card-security.svg" width="100%" alt="🛡️ Cybersecurity card" />
+        <h3>🛡️ Cybersecurity</h3>
+        <p><i>Security &amp; Ethical Hacking</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="#9-data-structures--algorithms">
+        <img src="assets/card-dsa.svg" width="100%" alt="🧠 DSA card" />
+        <h3>🧠 DSA</h3>
+        <p><i>Problem Solving &amp; Algorithms</i></p>
+        <b>👉 CLICK TO JUMP</b>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -73,23 +112,23 @@
 
 <a id="1-ai--llm-development"></a>
 <div align="center">
-  <h1><font color="#00E676">🤖 1. AI DEVELOPER &amp; LLMs</font></h1>
+  <h1>🤖 1. AI DEVELOPER &amp; LLMs</h1>
   <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
-  <h3><font color="#00FFFF">Focus: Retrieval Augmented Generation (RAG), Local LLMs &amp; Prompt Engineering</font></h3>
+  <h3>Focus: Retrieval Augmented Generation (RAG), Local LLMs &amp; Prompt Engineering</h3>
 </div>
 <br>
-<p align="center"><b><font color="#3776AB">🐍 Python</font></b> · <b><font color="#8E75B2">✨ Gemini</font></b> · <b><font color="#FFFFFF">🦙 Ollama</font></b></p>
+<p align="center"><b>🐍 Python</b> · <b>✨ Gemini</b> · <b>🦙 Ollama</b></p>
 
 <details open>
-  <summary><b><font color="#FF4500">🔥 Hide / Collapse AI Projects</font></b></summary>
+  <summary><b>🔥 Hide / Collapse AI Projects</b></summary>
   <br>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3><font color="#00E676">🔹 Automated Content Pipeline</font></h3>
-        <p><b><font color="#00E676">🟢 Status: In Progress</font></b></p>
-        <p><b><font color="#FFD700">📝 Description:</font></b> <font color="#E2E8F0">Multi-platform content generation system that automatically creates, formats, and schedules videos using AI.</font></p>
-        <p><b><font color="#A855F7">✨ Highlights:</font></b> <font color="#E2E8F0">Python, Gemini API, AI Agents.</font></p>
+        <h3>🔹 Automated Content Pipeline</h3>
+        <p><b>🟢 Status:</b> In Progress</p>
+        <p><b>📝 Description:</b> Multi-platform content generation system that automatically creates, formats, and schedules videos using AI.</p>
+        <p><b>✨ Highlights:</b> Python, Gemini API, AI Agents.</p>
       </td>
       <td width="50%" valign="center">
         <!-- Replace YOUR_AI_REPO with the actual repository name -->
@@ -101,10 +140,10 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3><font color="#00E676">🔹 Local AI Coding Agent</font></h3>
-        <p><b><font color="#A855F7">🟣 Status: Experimental</font></b></p>
-        <p><b><font color="#FFD700">📝 Description:</font></b> <font color="#E2E8F0">Secure offline AI developer environment configured with custom system prompts to review and write codebase.</font></p>
-        <p><b><font color="#A855F7">✨ Highlights:</font></b> <font color="#E2E8F0">Ollama setup, VS Code integration, 100% data privacy.</font></p>
+        <h3>🔹 Local AI Coding Agent</h3>
+        <p><b>🟣 Status:</b> Experimental</p>
+        <p><b>📝 Description:</b> Secure offline AI developer environment configured with custom system prompts to review and write codebase.</p>
+        <p><b>✨ Highlights:</b> Ollama setup, VS Code integration, 100% data privacy.</p>
       </td>
       <td width="50%" valign="center">
         <a href="https://github.com/rajan624/YOUR_AI_REPO_2"><img src="assets/project-ai-local.svg" width="100%" alt="Local AI coding agent card" /></a>
@@ -113,28 +152,28 @@
   </table>
 </details>
 
-<div align="right"><a href="#top"><font color="#FF007F">⬆ Back to top</font></a></div>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 <br><br>
 
 <a id="2-backend--api-architecture"></a>
 <div align="center">
-  <h1><font color="#3B82F6">⚙️ 2. BACKEND ARCHITECTURE</font></h1>
+  <h1>⚙️ 2. BACKEND ARCHITECTURE</h1>
   <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
-  <h3><font color="#00FFFF">Focus: High Performance APIs, Business Logic &amp; ERP Integrations (SAP/Zoho)</font></h3>
+  <h3>Focus: High Performance APIs, Business Logic &amp; ERP Integrations (SAP/Zoho)</h3>
 </div>
 <br>
-<p align="center"><b><font color="#092E20">🐍 Django</font></b> · <b><font color="#4479A1">🛢️ MySQL</font></b> · <b><font color="#4EA94B">🍃 MongoDB</font></b></p>
+<p align="center"><b>🐍 Django</b> · <b>🛢️ MySQL</b> · <b>🍃 MongoDB</b></p>
 
 <details open>
-  <summary><b><font color="#FF4500">🔥 Hide / Collapse Backend Projects</font></b></summary>
+  <summary><b>🔥 Hide / Collapse Backend Projects</b></summary>
   <br>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3><font color="#3B82F6">🔹 Enterprise ERP Core Sync</font></h3>
-        <p><b><font color="#3B82F6">🔵 Status: Completed</font></b></p>
-        <p><b><font color="#FFD700">📝 Description:</font></b> <font color="#E2E8F0">A robust data-syncing API layer handling seamless, secure data flow between manufacturing systems.</font></p>
-        <p><b><font color="#A855F7">✨ Highlights:</font></b> <font color="#E2E8F0">SAP/QuickBooks integration, Celery background tasks.</font></p>
+        <h3>🔹 Enterprise ERP Core Sync</h3>
+        <p><b>🔵 Status:</b> Completed</p>
+        <p><b>📝 Description:</b> A robust data-syncing API layer handling seamless, secure data flow between manufacturing systems.</p>
+        <p><b>✨ Highlights:</b> SAP/QuickBooks integration, Celery background tasks.</p>
       </td>
       <td width="50%" valign="center">
         <a href="https://github.com/rajan624/YOUR_BACKEND_REPO"><img src="assets/project-backend.svg" width="100%" alt="Backend project card" /></a>
@@ -143,28 +182,28 @@
   </table>
 </details>
 
-<div align="right"><a href="#top"><font color="#FF007F">⬆ Back to top</font></a></div>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 <br><br>
 
 <a id="3-frontend-specialist"></a>
 <div align="center">
-  <h1><font color="#EC4899">💻 3. FRONT-END SPECIALIST</font></h1>
+  <h1>💻 3. FRONT-END SPECIALIST</h1>
   <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
-  <h3><font color="#00FFFF">Focus: Accessible Interfaces, React Component Architecture &amp; Redux</font></h3>
+  <h3>Focus: Accessible Interfaces, React Component Architecture &amp; Redux</h3>
 </div>
 <br>
-<p align="center"><b><font color="#61DAFB">⚛️ React</font></b> · <b><font color="#593D88">🔄 Redux</font></b> · <b><font color="#F7DF1E">🟨 JavaScript</font></b></p>
+<p align="center"><b>⚛️ React</b> · <b>🔄 Redux</b> · <b>🟨 JavaScript</b></p>
 
 <details open>
-  <summary><b><font color="#FF4500">🔥 Hide / Collapse Front-End Projects</font></b></summary>
+  <summary><b>🔥 Hide / Collapse Front-End Projects</b></summary>
   <br>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3><font color="#EC4899">🔹 CMS Web Dashboard</font></h3>
-        <p><b><font color="#EC4899">💗 Status: Live</font></b></p>
-        <p><b><font color="#FFD700">📝 Description:</font></b> <font color="#E2E8F0">Frontend interface for managing digital content, providing users with a fast and intuitive state-optimized experience.</font></p>
-        <p><b><font color="#A855F7">✨ Highlights:</font></b> <font color="#E2E8F0">Component architecture.</font> <a href="https://cms-web-app-07.web.app/"><font color="#00FFFF">Live Link</font></a>.</p>
+        <h3>🔹 CMS Web Dashboard</h3>
+        <p><b>💗 Status:</b> Live</p>
+        <p><b>📝 Description:</b> Frontend interface for managing digital content, providing users with a fast and intuitive state-optimized experience.</p>
+        <p><b>✨ Highlights:</b> Component architecture. <a href="https://cms-web-app-07.web.app/">Live Link</a>.</p>
       </td>
       <td width="50%" valign="center">
         <a href="https://github.com/rajan624/YOUR_FRONTEND_REPO"><img src="assets/project-frontend.svg" width="100%" alt="Frontend project card" /></a>
@@ -173,28 +212,28 @@
   </table>
 </details>
 
-<div align="right"><a href="#top"><font color="#FF007F">⬆ Back to top</font></a></div>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 <br><br>
 
-<a id="4-full-stack--devops"></a>
+<a id="4-full-stack-development"></a>
 <div align="center">
-  <h1><font color="#F59E0B">🌐 4. FULL-STACK &amp; DEVOPS</font></h1>
+  <h1>🌐 4. FULL-STACK DEVELOPMENT</h1>
   <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
-  <h3><font color="#00FFFF">Focus: Full Lifecycle, Cloud Deployments (Vercel/AWS) &amp; CI/CD Pipelines</font></h3>
+  <h3>Focus: End-to-End Applications, Integrations &amp; Product Development</h3>
 </div>
 <br>
-<p align="center"><b><font color="#6DA55F">🟢 Node.js</font></b> · <b><font color="#2496ED">🐳 Docker</font></b> · <b><font color="#FFFFFF">▲ Vercel</font></b></p>
+<p align="center"><b>🟢 Node.js</b> · <b>⚛️ React</b> · <b>🔗 APIs</b></p>
 
 <details open>
-  <summary><b><font color="#FF4500">🔥 Hide / Collapse Full-Stack Projects</font></b></summary>
+  <summary><b>🔥 Hide / Collapse Full-Stack Projects</b></summary>
   <br>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3><font color="#F59E0B">🔹 gitreset.dev Platform</font></h3>
-        <p><b><font color="#F59E0B">🟠 Status: Live</font></b></p>
-        <p><b><font color="#FFD700">📝 Description:</font></b> <font color="#E2E8F0">A central hub for developer resources, tutorials, and automated tools, fully designed and deployed by me.</font></p>
-        <p><b><font color="#A855F7">✨ Highlights:</font></b> <font color="#E2E8F0">MERN stack, Cloud Auth, CI/CD pipelines.</font></p>
+        <h3>🔹 gitreset.dev Platform</h3>
+        <p><b>🟠 Status:</b> Live</p>
+        <p><b>📝 Description:</b> A central hub for developer resources, tutorials, and automated tools, fully designed and deployed by me.</p>
+        <p><b>✨ Highlights:</b> MERN stack, Cloud Auth, end-to-end product development.</p>
       </td>
       <td width="50%" valign="center">
         <a href="https://github.com/rajan624/YOUR_FULLSTACK_REPO"><img src="assets/project-fullstack.svg" width="100%" alt="Full-stack project card" /></a>
@@ -203,11 +242,105 @@
   </table>
 </details>
 
-<div align="right"><a href="#top"><font color="#FF007F">⬆ Back to top</font></a></div>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="5-devops-engineering"></a>
+<div align="center">
+  <h1>🚀 5. DEVOPS ENGINEERING</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: CI/CD, Containers, Cloud Infrastructure, Monitoring &amp; Automation</h3>
+</div>
+<p align="center"><b>🐳 Docker</b> · <b>☸️ Kubernetes</b> · <b>⚙️ GitHub Actions</b> · <b>☁️ AWS</b></p>
+<details open>
+  <summary><b>🔥 Hide / Collapse DevOps Topics</b></summary>
+  <br>
+  <table width="100%"><tr>
+    <td width="50%" valign="top"><h3>🔹 CI/CD &amp; Deployment Automation</h3><p>Build repeatable pipelines for testing, building and deploying applications.</p><p><b>Topics:</b> GitHub Actions, Docker, environment configuration, release workflows.</p></td>
+    <td width="50%" valign="center"><img src="assets/card-devops.svg" width="100%" alt="DevOps topic card" /></td>
+  </tr></table>
+</details>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="6-system-design"></a>
+<div align="center">
+  <h1>🏗️ 6. SYSTEM DESIGN</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Scalable, Reliable, Maintainable &amp; Distributed Systems</h3>
+</div>
+<p align="center"><b>🧩 Design Patterns</b> · <b>📨 Queues</b> · <b>⚖️ Load Balancing</b> · <b>📈 Scalability</b></p>
+<details open>
+  <summary><b>🔥 Hide / Collapse System Design Topics</b></summary>
+  <br>
+  <table width="100%"><tr>
+    <td width="50%" valign="top"><h3>🔹 Architecture &amp; Trade-offs</h3><p>Explore how to design systems that handle growth, failures and changing requirements.</p><p><b>Topics:</b> Caching, databases, queues, rate limiting, consistency, observability.</p></td>
+    <td width="50%" valign="center"><img src="assets/card-system-design.svg" width="100%" alt="System design topic card" /></td>
+  </tr></table>
+</details>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="7-databases"></a>
+<div align="center">
+  <h1>🗄️ 7. DATABASES &amp; DATA MODELING</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Schema Design, Query Performance, Transactions &amp; Data Integrity</h3>
+</div>
+<p align="center"><b>🐬 MySQL</b> · <b>🐘 PostgreSQL</b> · <b>🍃 MongoDB</b> · <b>⚡ Redis</b></p>
+<details open>
+  <summary><b>🔥 Hide / Collapse Database Topics</b></summary>
+  <br>
+  <table width="100%"><tr>
+    <td width="50%" valign="top"><h3>🔹 SQL, NoSQL &amp; Optimization</h3><p>Practice modeling reliable data structures and improving real-world query performance.</p><p><b>Topics:</b> Indexes, joins, normalization, transactions, aggregation, caching.</p></td>
+    <td width="50%" valign="center"><img src="assets/card-database.svg" width="100%" alt="Database topic card" /></td>
+  </tr></table>
+</details>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="8-cybersecurity-ethical-hacking"></a>
+<div align="center">
+  <h1>🛡️ 8. CYBERSECURITY &amp; ETHICAL HACKING</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Defensive Security, Secure Coding, Web Security &amp; Authorized Testing</h3>
+</div>
+<p align="center"><b>🔐 OWASP Top 10</b> · <b>🧰 Threat Modeling</b> · <b>🕵️ Security Testing</b> · <b>🛡️ Hardening</b></p>
+<details open>
+  <summary><b>🔥 Hide / Collapse Cybersecurity Topics</b></summary>
+  <br>
+  <table width="100%"><tr>
+    <td width="50%" valign="top"><h3>🔹 Secure Applications &amp; Ethical Testing</h3><p>Learn to identify and fix vulnerabilities in systems you own or have explicit permission to test.</p><p><b>Topics:</b> Authentication, authorization, input validation, dependency security, logging and incident response.</p></td>
+    <td width="50%" valign="center"><img src="assets/card-security.svg" width="100%" alt="Cybersecurity topic card" /></td>
+  </tr></table>
+  <p><i>Practice only in authorized labs, intentionally vulnerable training environments, or systems where you have permission.</i></p>
+</details>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+<br><br>
+
+<a id="9-data-structures--algorithms"></a>
+<div align="center">
+  <h1>🧠 9. DATA STRUCTURES &amp; ALGORITHMS (DSA)</h1>
+  <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
+  <h3>Focus: Problem Solving, Algorithmic Thinking &amp; Interview Preparation</h3>
+</div>
+<p align="center"><b>📚 Arrays &amp; Strings</b> · <b>🌳 Trees &amp; Graphs</b> · <b>🧮 Dynamic Programming</b> · <b>⏱️ Complexity</b></p>
+<details open>
+  <summary><b>🔥 Hide / Collapse DSA Topics</b></summary>
+  <br>
+  <table width="100%"><tr>
+    <td width="50%" valign="top"><h3>🔹 Patterns &amp; Practice</h3><p>Build a consistent problem-solving foundation by learning core data structures and common algorithm patterns.</p><p><b>Topics:</b> Big-O, binary search, recursion, linked lists, stacks, queues, trees, graphs, greedy algorithms and dynamic programming.</p></td>
+    <td width="50%" valign="center"><img src="assets/card-dsa.svg" width="100%" alt="DSA topic card" /></td>
+  </tr></table>
+</details>
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 
 ---
 
-## <font color="#00FFFF">📊 GITHUB PROFILE SNAPSHOT</font>
+## 📊 GITHUB PROFILE SNAPSHOT
 
 <div align="center">
   <img src="assets/profile-stats.svg" width="100%" alt="Static GitHub profile snapshot" />
@@ -215,7 +348,10 @@
 
 <br>
 <div align="center">
-  <h3><font color="#FF007F">👀 Thanks for visiting!</font></h3>
-  <p><b><font color="#00E676">Build.</font> <font color="#3B82F6">Learn.</font> <font color="#F59E0B">Improve.</font> <font color="#A855F7">Repeat.</font></b></p>
+  <h3>👀 Thanks for visiting!</h3>
+  <p><b>Build. Learn. Improve. Repeat.</b></p>
   <img src="assets/animated-divider.svg" width="100%" alt="Animated rainbow divider" />
 </div>
+
+
+<!-- SETUP NOTE: Keep the assets/ folder beside this README.md when uploading to GitHub. -->
