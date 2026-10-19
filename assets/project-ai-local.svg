@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190">
-<defs><linearGradient id="g"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect x="4" y="4" width="632" height="182" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="3"><animate attributeName="stroke-width" values="2;5;2" dur="3s" repeatCount="indefinite"/></rect>
-<text x="28" y="54" fill="#8b5cf6" font-family="Arial,sans-serif" font-size="22" font-weight="700">LOCAL AI CODING AGENT</text>
-<rect x="28" y="76" width="150" height="30" rx="15" fill="#8b5cf6" fill-opacity=".18" stroke="#8b5cf6"/>
-<text x="103" y="96" text-anchor="middle" fill="#8b5cf6" font-family="Arial,sans-serif" font-size="13" font-weight="700">EXPERIMENTAL</text>
-<path d="M28 130 H610" stroke="#8b5cf6" stroke-opacity=".5" stroke-width="2"><animate attributeName="stroke-dasharray" values="1 12;12 1;1 12" dur="4s" repeatCount="indefinite"/></path>
-<text x="28" y="158" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="14">RAJAN624 · PROJECT SHOWCASE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img" aria-label="LOCAL AI CODING AGENT card">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a855f7"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="5" y="5" width="590" height="140" rx="20" fill="#0d1117" stroke="url(#grad)" stroke-width="3"/>
+<rect x="10" y="10" width="580" height="130" rx="16" fill="none" stroke="url(#grad)" stroke-width="2" stroke-dasharray="22 14"><animate attributeName="stroke-dashoffset" values="0;144" dur="7s" repeatCount="indefinite"/></rect>
+<circle cx="67" cy="75" r="34" fill="url(#grad)" opacity=".18"/><text x="67" y="87" text-anchor="middle" font-size="35">⌘</text>
+<text x="120" y="65" font-family="Verdana,Arial,sans-serif" font-size="27" font-weight="700" fill="url(#grad)">LOCAL AI CODING AGENT</text>
+<text x="120" y="96" font-family="Verdana,Arial,sans-serif" font-size="16" fill="#c9d1d9">OLLAMA • OFFLINE • PRIVACY</text>
+<path d="M520 75h35m-10 -10 10 10 -10 10" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

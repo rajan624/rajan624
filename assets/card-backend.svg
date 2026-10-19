@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="130" viewBox="0 0 600 130">
-<defs><linearGradient id="g"><stop stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect x="4" y="4" width="592" height="122" rx="18" fill="#0d1117" stroke="url(#g)" stroke-width="3">
-<animate attributeName="stroke-width" values="2;6;2" dur="3s" repeatCount="indefinite"/>
-</rect><rect x="14" y="14" width="572" height="102" rx="13" fill="none" stroke="#3b82f6" stroke-opacity=".45" stroke-width="1"/>
-<text x="300" y="70" text-anchor="middle" fill="#3b82f6" font-family="Arial,sans-serif" font-size="27" font-weight="700">BACKEND ARCHITECTURE</text>
-<text x="300" y="96" text-anchor="middle" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="13">EXPLORE PROJECTS ↓</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img" aria-label="Backend Architecture card">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b82f6"/><stop offset="1" stop-color="#00e5ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="5" y="5" width="590" height="140" rx="20" fill="#0d1117" stroke="url(#grad)" stroke-width="3"/>
+<rect x="10" y="10" width="580" height="130" rx="16" fill="none" stroke="url(#grad)" stroke-width="2" stroke-dasharray="22 14"><animate attributeName="stroke-dashoffset" values="0;144" dur="7s" repeatCount="indefinite"/></rect>
+<circle cx="67" cy="75" r="34" fill="url(#grad)" opacity=".18"/><text x="67" y="87" text-anchor="middle" font-size="35">⚙️</text>
+<text x="120" y="65" font-family="Verdana,Arial,sans-serif" font-size="27" font-weight="700" fill="url(#grad)">Backend Architecture</text>
+<text x="120" y="96" font-family="Verdana,Arial,sans-serif" font-size="16" fill="#c9d1d9">Python • Django • ERP APIs</text>
+<path d="M520 75h35m-10 -10 10 10 -10 10" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
