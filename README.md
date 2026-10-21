@@ -242,8 +242,6 @@
   </table>
 </details>
 
-<div align="right"><a href="#top">⬆ Back to top</a></div>
-
 
 <div align="right"><a href="#top">⬆ Back to top</a></div>
 <br><br>
